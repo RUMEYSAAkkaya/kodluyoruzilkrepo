@@ -17,6 +17,6 @@ code.
 ## Contrubuting
 Pull requestler kabul edilir .Büyük değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için bir koun açınız .
 ## License
-[MIT]
+[MIT].
 
 
